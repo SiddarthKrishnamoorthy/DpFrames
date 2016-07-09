@@ -1,2 +1,2 @@
-# DpFrames
-summer project under robotics club
+# Digital Photo Frame
+Summer Project under Robotics Club, IIT Kanpur
